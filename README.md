@@ -1,4 +1,4 @@
-# minst_digit_classifier
+# mnist_digit_classifier
 Let's classify some handwritten digits!
 
 # Overview
