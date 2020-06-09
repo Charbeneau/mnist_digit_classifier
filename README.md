@@ -16,8 +16,6 @@ Here's what I used to get started.
 
 - [Docker](https://www.docker.com/products/docker-desktop)
   - This was written using version 19.03.5, build 633a0ea.
-- [Docker Compose](https://docs.docker.com/compose/)
-  - This was written using version 1.24.1, build 4667896b.
 - [make](https://www.gnu.org/software/make/manual/make.html)
   - This was written using version 3.81.
 
